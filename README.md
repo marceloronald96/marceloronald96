@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 ola
+
 :arrows_counterclockwise: Atualmente em  processo de transição de carreira
 - 🌱 Aprendendo programação Front-end
 - 👯 I’m looking to collaborate on ...
