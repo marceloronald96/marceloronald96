@@ -1,7 +1,7 @@
 ### Olá, me chamo Marcelo Ronald 👋
 26 anos | Dev. Front-end Jr.|
 
--![loading](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+-![loading]([https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif](https://media.tenor.com/XasjKGMk_wAAAAAC/load-loading.gif)
 
 - :arrows_counterclockwise: Atualmente em  processo de transição de carreira
 - 🌱 Aprendendo programação Front-end no SENAI-SP/FORD BRASIL/ FORD ACADEMY FOUND.
