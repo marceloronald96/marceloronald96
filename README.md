@@ -1,7 +1,10 @@
 ### Olá, me chamo Marcelo Ronald 👋
 26 anos | Dev. Front-end Jr.|
 
+**DESENVOLVEDOR EM DESEVOLVIMENTO**
+
 -![loading](https://res.cloudinary.com/practicaldev/image/fetch/s--F2tN0yaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb0wtz2xaqbgub8slcic.gif)
+
 
 - :arrows_counterclockwise: Atualmente em  processo de transição de carreira
 - 🌱 Aprendendo programação Front-end no SENAI-SP/FORD BRASIL/ FORD ACADEMY FOUND.
