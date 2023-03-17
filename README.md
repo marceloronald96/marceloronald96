@@ -15,7 +15,7 @@
 - :bulb: ***Vontade de aprender e sede de mudança sempre!***
 <br><br>
 <div align="">
-<img height ="90px"src =https://skillicons.dev/icons?i=html,)(https://skillicons.dev)/>
+<img height ="50px"src =https://skillicons.dev/icons?i=git,github,html,)(https://skillicons.dev)/>
 <br><br>
   <a href="https://github.com/marceloronald96">
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=marceloronald96&show_icons=true&theme=tokyonight"/> 
