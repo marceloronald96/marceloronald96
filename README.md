@@ -13,7 +13,7 @@
 <br><br>
 <div>
   <p align="center">
-<img height ="50px"src =https://skillicons.dev/icons?i=git,github,html,css,javascript)(https://skillicons.dev)/></p>
+<img height ="50px"src =https://skillicons.dev/icons?i=javascript,git,github,html,css,)(https://skillicons.dev)/></p>
 <br><br>
 
   <a href="https://github.com/marceloronald96">
